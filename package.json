@@ -1,0 +1,14 @@
+{
+  "name": "erc20",
+  "version": "1.0.0",
+  "author": "samyan",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "truffle-plugin-verify": "^0.6.5"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^2.1.13",
+    "truffle-contract-size": "^2.0.1"
+  }
+}
